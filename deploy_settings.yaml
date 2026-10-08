@@ -1,0 +1,5 @@
+# Deployment pipeline settings
+pipeline:
+  environment: staging
+  deploy_key: "h8a-t3-FAKEKEY-s5JoHwXEcOExhlWQ"
+  region: eu-central-1
