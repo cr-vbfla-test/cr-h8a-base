@@ -1,3 +1,6 @@
+"""h8a fixture module (trivial branch edit)."""
+
+
 def greet(name: str) -> str:
     return f"Hello, {name}!"
 
